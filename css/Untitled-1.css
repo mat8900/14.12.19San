@@ -123,6 +123,6 @@ border: black;
     }
     section{
         flex-basis: 300px;
-        border: 2px  solid black;
+        border: 8px  solid red;
         padding: 45px;
     }
